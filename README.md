@@ -10,7 +10,7 @@ For more details about this course, see the [official JMU course catalog](https:
 
 ## Contents
 
-- [lab1: set up jupyterlab and load data from s3](https://github.com/demo-student-jmu/ia340-2025-demo/blob/main/lab1.ipynb)
+- [lab1: set up jupyterlab and load data from s3](/lab1.ipynb)
 - Python scripts
 - Lab submissions
 - Project documentation
