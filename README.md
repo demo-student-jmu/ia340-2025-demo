@@ -15,8 +15,3 @@ For more details about this course, see the [official JMU course catalog](https:
 - Lab submissions
 - Project documentation
 
-## Contact
-
-For academic purposes only.  
-**Name:** [Your Name]  
-**Email:** [yourname]@dukes.jmu.edu
